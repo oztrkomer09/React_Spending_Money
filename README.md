@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-<a href="https://oztrkomer009-react-spending-money.netlify.app">Live Project</a>
+<a href="https://oztrkomer009-react-spending-money.netlify.app" target="_blank">Live Project</a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
