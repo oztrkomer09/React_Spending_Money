@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Gum",
+    "price": 3,
+    "image": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/07129971/07129971-581be7-1650x1650.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Cola",
+    "price": 6,
+    "image": "https://www.gulyurt.com.tr/yuklemeler/2021/01/60ba5836e4754_coca-cola330.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Sneakers",
+    "price": 400,
+    "image": "https://akn-ss.b-cdn.net/products/2021/01/26/143326/fff4112f-12a8-47b3-8e1b-721467ab46f2_size1400x1400_quality100_cropCenter.jpg"
+  },
+  {
+    "id": 4,
+    "title": "iPad Pro",
+    "price": 1500,
+    "image": "https://cdn.cimri.io/image/1000x1000/apple-ipad-pro-2020-11-inc-1-tb_491965465.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Car",
+    "price": 40000,
+    "image": "https://cdn-nq.toyzzshop.com/product/600x600/0f06b_Metal_Cek_Birak_Murat_131_Araba.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Watch",
+    "price": 100000,
+    "image": "https://content.rolex.com/dam/2022/upright-bba-with-shadow/m226658-0001.png?impolicy=v6-upright&imwidth=270"
+  },
+  {
+    "id": 7,
+    "title": "House",
+    "price": 200000,
+    "image": "http://atlas-content-cdn.pixelsquid.com/stock-images/simple-house-NxE5a78-600.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Diamond",
+    "price": 400000,
+    "image": "https://dictionary.cambridge.org/tr/images/thumb/diamon_noun_002_10599.jpg?version=5.0.252"
+  }
+]
